@@ -1,16 +1,23 @@
 ### Hi there 👋
 
-<!--
-**yanecoder/yanecoder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Languages
+<img src="https://skillicons.dev/icons?i=py,js,css,html"/>&nbsp;
 
-Here are some ideas to get you started:
+### At learning
+<img src="https://skillicons.dev/icons?i=cpp,linux"/>&nbsp;
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Tools
+<img src="https://skillicons.dev/icons?i=windows,pycharm,phpstorm,visualstudio,github"/>&nbsp;
+
+### My stats
+<div id="stat" align="center">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=danaumoff&theme=github_dark" alt=""/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=danaumoff&theme=github_dark" alt=""/>
+    <img src="https://github-readme-stats.vercel.app/api?username=danaumoff&show_icons=true&theme=radical" alt=""/>
+</div>
+
+### Successes
+<div id="sucs" align="center">
+    <img src="https://ctf.tinkoff.ru/assets/share/I4uWp5ON.png" width="800" height=auto>
+</div>
+
