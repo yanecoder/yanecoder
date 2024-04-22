@@ -1,4 +1,6 @@
-### Hi there 👋
+<div id="greet" align="center">
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&color=2CF74B&background=000000&center=true&vCenter=true&multiline=true&random=false&width=500&height=100&lines=++Hi+there+%F0%9F%91%8B%2C+;I'm+yanecoder" alt="Typing SVG" /></a>>
+</div>
 
 ### Languages
 <img src="https://skillicons.dev/icons?i=py,js,css,html"/>&nbsp;
