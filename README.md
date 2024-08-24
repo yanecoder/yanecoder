@@ -13,9 +13,9 @@
 
 ### My stats
 <div id="stat" align="center">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yanecoder&theme=github_dark" alt=""/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yanecoder&theme=2077" alt=""/>
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=yanecoder&theme=monokai" alt=""/>
-    <img src="https://github-readme-stats.vercel.app/api?username=yanecoder&show_icons=true&theme=radical" alt=""/>
+    <img src="https://github-readme-stats.vercel.app/api?username=yanecoder&show_icons=true&theme=tokyonight" alt=""/>
 </div>
 
 ### Successes
