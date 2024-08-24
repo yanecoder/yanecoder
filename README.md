@@ -3,7 +3,7 @@
 </div>
 
 ### Languages
-<img src="https://skillicons.dev/icons?i=py,сpp,js,css,html"/>&nbsp;
+<img src="https://skillicons.dev/icons?i=py,cpp,js,css,html"/>&nbsp;
 
 ### At learning
 <img src="https://skillicons.dev/icons?i=cpp,linux"/>&nbsp;
