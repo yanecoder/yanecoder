@@ -3,13 +3,13 @@
 </div>
 
 ### Languages
-<img src="https://skillicons.dev/icons?i=py,cpp,js,css,html"/>&nbsp;
+<img src="https://skillicons.dev/icons?i=py,postgresql,js,css,html"/>&nbsp;
 
 ### At learning
 <img src="https://skillicons.dev/icons?i=cpp,linux"/>&nbsp;
 
 ### Tools
-<img src="https://skillicons.dev/icons?i=windows,pycharm,phpstorm,visualstudio,github"/>&nbsp;
+<img src="https://skillicons.dev/icons?i=windows,vscode,pycharm,phpstorm,visualstudio,github"/>&nbsp;
 
 ### My stats
 <div id="stat" align="center">
