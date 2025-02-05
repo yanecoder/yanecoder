@@ -6,7 +6,7 @@
 <img src="https://skillicons.dev/icons?i=py,postgresql,js,css,html"/>&nbsp;
 
 ### At learning
-<img src="https://skillicons.dev/icons?i=cpp,linux"/>&nbsp;
+<img src="https://skillicons.dev/icons?i=c,cpp,linux"/>&nbsp;
 
 ### Tools
 <img src="https://skillicons.dev/icons?i=windows,vscode,pycharm,phpstorm,visualstudio,github"/>&nbsp;
