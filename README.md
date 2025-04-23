@@ -3,13 +3,10 @@
 </div>
 
 ### Stack
-<img src="https://skillicons.dev/icons?i=py,cpp,linux,git,docker"/>&nbsp;
-
-### At learning
-<img src="https://skillicons.dev/icons?i=c,cpp,linux"/>&nbsp;
+<img src="https://skillicons.dev/icons?i=py,cpp,linux,git,docker,bash"/>&nbsp;
 
 ### Tools
-<img src="https://skillicons.dev/icons?i=windows,vscode,pycharm,phpstorm,visualstudio,github"/>&nbsp;
+<img src="https://skillicons.dev/icons?i=vscode,visualstudio,pycharm,github,oracle"/>&nbsp;
 
 ### My stats
 <div id="stat" align="center">
