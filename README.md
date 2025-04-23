@@ -20,6 +20,6 @@
 
 ### Successes
 <div id="sucs" align="center">
-    <img src="https://ctf.tbank.ru/assets/share/CeLBszB4.png" width="800" height=auto>
+    <img src="https://t-ctf.ru/assets/share/1UI7ShzZ.png" width="800" height=auto>
 </div>
 
