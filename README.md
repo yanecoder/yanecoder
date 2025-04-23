@@ -3,7 +3,7 @@
 </div>
 
 ### Stack
-<img src="https://skillicons.dev/icons?i=py,postgresql,js,css,html"/>&nbsp;
+<img src="https://skillicons.dev/icons?i=py,cpp,linux,git,docker"/>&nbsp;
 
 ### At learning
 <img src="https://skillicons.dev/icons?i=c,cpp,linux"/>&nbsp;
