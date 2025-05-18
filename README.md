@@ -3,7 +3,7 @@
 </div>
 
 ### Stack
-<img src="https://skillicons.dev/icons?i=py,cpp,linux,git,docker,bash,html,css,js"/>&nbsp;
+<img src="https://skillicons.dev/icons?i=py,cpp,linux,git,docker,bash,html,css,js,flask"/>&nbsp;
 
 ### Tools
 <img src="https://skillicons.dev/icons?i=vscode,visualstudio,pycharm,github,figma,ps"/>&nbsp;
@@ -11,7 +11,7 @@
 ### My stats
 <div id="stat" align="center">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yanecoder&theme=2077" alt=""/>
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=yanecoder&theme=monokai" alt=""/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=yanecoder&theme=2077" alt=""/>
     <img src="https://github-readme-stats.vercel.app/api?username=yanecoder&show_icons=true&theme=tokyonight" alt=""/>
 </div>
 
