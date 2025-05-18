@@ -15,8 +15,4 @@
     <img src="https://github-readme-stats.vercel.app/api?username=yanecoder&show_icons=true&theme=tokyonight" alt=""/>
 </div>
 
-### Successes
-<div id="sucs" align="center">
-    <img src="https://t-ctf.ru/assets/share/1UI7ShzZ.png" width="800" height=auto>
-</div>
 
