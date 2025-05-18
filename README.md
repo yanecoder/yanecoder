@@ -6,7 +6,7 @@
 <img src="https://skillicons.dev/icons?i=py,cpp,linux,git,docker,bash,html,css,js"/>&nbsp;
 
 ### Tools
-<img src="https://skillicons.dev/icons?i=vscode,visualstudio,pycharm,github,figma,virtualbox"/>&nbsp;
+<img src="https://skillicons.dev/icons?i=vscode,visualstudio,pycharm,github,figma,ps"/>&nbsp;
 
 ### My stats
 <div id="stat" align="center">
