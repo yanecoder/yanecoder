@@ -6,7 +6,7 @@
 <img src="https://skillicons.dev/icons?i=py,react,sklearn,bots,flask,cpp,git,docker"/>&nbsp;
 
 ### Tools
-<img src="https://skillicons.dev/icons?i=vscode,visualstudio,pycharm,github,figma,ps,discord,kali,windows,linux,macos"/>&nbsp;
+<img src="https://skillicons.dev/icons?i=vscode,visualstudio,pycharm,github,figma,ps,windows,linux,mac"/>&nbsp;
 
 ### My stats
 <div id="stat" align="center">
