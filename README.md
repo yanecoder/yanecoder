@@ -3,6 +3,6 @@
 </p>
 
 <p align="center">
-morning everybody, i'm bots & backend dev <br>
+morning everybody, i'm <b>bots</b> & backend dev <br>
 lowkey exploring <b>ml</b> & web3
 </p>
