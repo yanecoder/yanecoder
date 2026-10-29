@@ -1,5 +1,5 @@
 <div align="center">
-<img src="./boutme.png" alt="about me banner" width="100%" />
+<img src="./boutme2.png" alt="about me banner" width="100%" />
 
 morning everybody. i'm <b>bots</b> & backend dev <br>
 lowkey exploring <b>ml</b> & web3
